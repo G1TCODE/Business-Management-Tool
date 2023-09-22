@@ -1,0 +1,12 @@
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\bin\Debug\net7.0\BMT.Domain.deps.json
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\bin\Debug\net7.0\BMT.Domain.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\bin\Debug\net7.0\BMT.Domain.pdb
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\obj\Debug\net7.0\BMT.Domain.csproj.AssemblyReference.cache
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\obj\Debug\net7.0\BMT.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\obj\Debug\net7.0\BMT.Domain.AssemblyInfoInputs.cache
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\obj\Debug\net7.0\BMT.Domain.AssemblyInfo.cs
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\obj\Debug\net7.0\BMT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\obj\Debug\net7.0\BMT.Domain.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\obj\Debug\net7.0\refint\BMT.Domain.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\obj\Debug\net7.0\BMT.Domain.pdb
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Domain\obj\Debug\net7.0\ref\BMT.Domain.dll
