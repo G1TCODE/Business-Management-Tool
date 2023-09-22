@@ -1,0 +1,15 @@
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\bin\Debug\net7.0\BMT.Application.deps.json
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\bin\Debug\net7.0\BMT.Application.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\bin\Debug\net7.0\BMT.Application.pdb
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\bin\Debug\net7.0\BMT.Domain.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\bin\Debug\net7.0\BMT.Domain.pdb
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\obj\Debug\net7.0\BMT.Application.csproj.AssemblyReference.cache
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\obj\Debug\net7.0\BMT.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\obj\Debug\net7.0\BMT.Application.AssemblyInfoInputs.cache
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\obj\Debug\net7.0\BMT.Application.AssemblyInfo.cs
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\obj\Debug\net7.0\BMT.Application.csproj.CoreCompileInputs.cache
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\obj\Debug\net7.0\BMT.Application.csproj.CopyComplete
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\obj\Debug\net7.0\BMT.Application.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\obj\Debug\net7.0\refint\BMT.Application.dll
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\obj\Debug\net7.0\BMT.Application.pdb
+C:\Users\basic\OneDrive\Desktop\MSSA Projects\Business Management Tool (BMT)\BMT.Application\obj\Debug\net7.0\ref\BMT.Application.dll
