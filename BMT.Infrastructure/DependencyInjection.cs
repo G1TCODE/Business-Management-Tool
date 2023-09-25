@@ -26,7 +26,7 @@ namespace BMT.Infrastructure
             IConfiguration configuration)
         {
 
-            var connectionString = configuration.GetConnectionString("AZURE_SQL_CONNECTIONSTRING") ??
+            var connectionString = configuration.GetConnectionString("<<<YOUR DB HERE>>>") ??
                 throw new ArgumentNullException(nameof(configuration));
 
             infrastructureServices.AddDbContext<ApplicationDbContext>(options =>
